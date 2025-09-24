@@ -1,0 +1,247 @@
+* Update: 1.0.6(b) *
+Corrected Keyboard/Widget Mapping
+(based on https://sampwiki.blast.hk/wiki/Keys)
++ TextDraw
++ C3DTextLabel
++ Chat Message
++ Vehicle Colors
+
+Implemented
++ New Dialog Interface
++ Chat Logs
++ Togglable Jiggle Support (/togjiggle)
++ Corrected Selectable TextDraw State
++ Keyboard Handler(not mobilador/otg)
++ Aim Camera Like PC
++ Adjustable Widget Alpha
++ Aim Indicator Like PC
++ Modloader
++ Mobilador/OTG
++ Adjustable edit object added value (/editobj [pos/rot/scale]
++ Added /save command
++ Fighting style
++ F8 (ScreenShot)
++ Added Weapon Switch & Block Widget
++ Added DisableRadarTouch (/dradartouch)
++ Added Vehicle Cinematic Camera
+
+Fixes
++ Crash issue
+
+Adjusted
++ Adjusted Edit Object Movement Value
++ Optimized Loading Screen
+
+Removed
++ Temporary removed advanced shadow (fps drop)
++ Temporary removed /sens
++ Lock On
+
+* Update: 1.0.6 *
+
+Fixes
++ Passenger Button
++ Widget Buttons
++ Appending Logs
++ Vertex Light/Object Lighting
++ Object Animation
++ Animated Texture
++ Object Color
++ Abnormal Crash Issue
++ Material Texture
++ Slippery Floor
++ H Button to open garage (horn still bug)
+
+Added
++ Latest AML Version
++ PC Edit Object
++ Adjustable Passenger Button (position & size)
++ Customizeable Chat Size
++ New Interface Dialog
++ New Interface Scoreboard
++ Weapon Switch
++ Adjustable Weapon Switch (position & size)
++ /editobject command (Button Type/PC Edit Object Type)
+
+Adjusted
++ Mobile Menu Map Opacity
++ Watermark Position
++ Chat String Settings removed from Launcher -> '/pagesize'
++ Draw Distance Max Value (1200 -> 2000)
+
+Removed
++ Temporary removed /sens command
++ Temporary removed screenshot
++ Temporary removed mouse & keyboard
+
+* Update: 1.0.5(e) *
+
+Added
++ '/editobj' command
++ Edit Object Feature
++ passenger button
++ adjustable passenger button position
++ saveable page size and font size (remove menu_settings.ini if it doesn't work).
+
+Improved
++ UI theme/style
++ Menu/IG Settings theme/style
++ Menu/IG Settings Saving Feature(autosave)
++ Faster Settings Loading
++ Player Attachment
++ Edit Object Interface
++ Data Loading & Saving optimization
+
+Fixed
++ Hide Button feature
++ New Settings Screen ('/togsettings') not saving
++ Toys isnt gettin' erased/destroyed from the map when a player leave/left
+
+Removed
++ 'Save' Button on Menu/IG Settings
+
+* Update: 1.0.5(d) *
+
+Added
++ customizeable button color(both new/old interface)
++ '/btn' to change button color
++ '/togsettings' added again
++ custom menu added
++ custom settings added
++ added more selection on settings
++ new interface style/theme
++ new scoreboard
++ new ingame settings
+
+Fixes
++ black/dark interior (use full data)
++ fixed drunk camera
++ additional fixes on special animation
+
+Removed
++ removed '/hidegui', not actually removed js 'improved'
+
+* Update: 1.0.5(c) *
+
+Bug Fixes
++ Fixed crash issue
++ Fixed cpad issue
+
+Removed
++ Temporary removed new settings
++ Temporary removed /togsettings
+
+* Update: v1.0.5 *
+
+Added
++ Toggleable Custom Menu (for AML, sm ppl use SAUtils/MoreSettings)
++ Game Settings moved to Custom Menu
++ Fixed Overlapping CPad
++ Fixed drive-by
++ Disappearing spawnscreen/button
++ added new command -> '/togsettings'
+
+* Update: v1.0.4(e) *
+
+Bug Fixes
++ Fixed Overlapping CPad
++ Fixed drive-by
++ Disappearing spawnscreen/button
+
+Removed
++ Hide map in (/hidegui)
+
+* Update: v1.0.4(d) *
+
+Bug Fixes
++ fully recoded buttons
++ client gettin' rejected/kicked from the server for unknown reason
++ optimized touchevent
++ special action/animation
++ invalid authkey
+
+Added
++ new spawn screen buttons
+
+Removed
++ built in first person perspective/mod
++ removed scrollbar/scrollpanel from chatbox/window
++ new interface -> dialog = temporarily removed
+
+* Update: v1.0.4(c) *
+
+Bug Fixes
++ ALT Button Fixed (double tap)
++ Reconnect Cmd Fixed
+
+* Update: v1.0.4(b) *
+
+Bug Fixes
++ Blank dialog (auto force close)
++ Control analog while aiming (can't move)
++ Server closed connection
+
+Added
++ Rcon Command
++ Client Comamnds (/ccmds)
+
+* Update: v1.0.4 *
+
+Bug Fixes
++ dialog crash
++ alt button
++ fps drop while aiming
++ crosshair recoil & alignment
++ passenger button
++ scoreboard crash
++ vehicle audio sync
++ sound when recording
+
+Adjustments
++ New launcher interface
++ Button color
+
+* Update: v1.0.3 *
+
+New Interface
++ scoreboard
++ in-game menu settings
+
+Added
++ default aspect ratio
+
+Bug Fixes
++ fps drop while aiming
++ garage door not opening
++ dialog 'inputtext' returning null value
++ fullscreen issue on newer android version
++ default screen sensitivity : 0.5 > 50.0
++ sampvoice reconnecting issue
++ scoreboard invalid color
++ scoreboard inaccurate data/info
++ ingame button (alt issue)
+
+* Update: v1.0.2 *
+
+Launcher: 
+- New Interface
+
+Game:
+- Fixed passenger button (carjack)
+- Fixed vehicle engine sound
+
+* Update: v1.0.1 *
+
+Launcher:
+- New interface
+- Added option for aspect ratio
+
+Game:
+- Fixed fps drop when aiming
+- Fixed crashes/freezes
+- Added new buttonpanel and dialog
+- Added built in menu (adjust draw distance & aspect ratio)
+- Fixed voice chat (showing even though server doesnt have sampvoice installed)
+- Fixed voice chat icon (not showing after restart)
+- Fixed fps limit
+- Fixed modloader and cleo
