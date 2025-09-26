@@ -2,7 +2,6 @@
     "app_server_status": true,
     "app_beta_status": false,
     "game_version": "1.0.7",
-    "build_date": "2025-09-26",
     "version": "0.2",
     "update_logs": [
         "Fixed double chat.",
