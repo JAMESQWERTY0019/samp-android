@@ -1,0 +1,11 @@
+{
+  "apk_url": "https://yourdomain.com/samp-mobile-0.2.apk",
+  "apk_version": "0.2",
+  "update_logs": [
+    "Fixed double chat.",
+    "Fixed chat aint showing.",
+    "Fixed /togdw cmd.",
+    "Fixed pagesize and fontsize for new chat.",
+    "Fixed hide chat."
+  ]
+}
