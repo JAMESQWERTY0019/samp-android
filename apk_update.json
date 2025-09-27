@@ -3,7 +3,7 @@
   "apk_version": "0.2",
   "update_logs": [
     "Fixed double chat.",
-    "Fixed chat aint showing.",
+    "Fixed chat not showing.",
     "Fixed /togdw cmd.",
     "Fixed pagesize and fontsize for new chat.",
     "Fixed hide chat."
