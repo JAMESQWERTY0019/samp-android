@@ -7,5 +7,6 @@
     "Fixed /togdw cmd.",
     "Fixed pagesize and fontsize for new chat.",
     "Fixed hide chat."
-  ]
+  ],
+  "game_status": true
 }
