@@ -4,7 +4,7 @@
   "update_logs": [
     "Fixed edit object crash issue.",
     "Fixed chat position.",
-    "Fixed weapon switch aint showing when aiming.",
+    "Fixed weapon switch isn't showing when aiming.",
     "Fixed handling.",
     "Temporary removed /dradartouch."
   ],
