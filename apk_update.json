@@ -6,7 +6,8 @@
     "Fixed chat position.",
     "Fixed weapon switch isn't showing when aiming.",
     "Fixed handling.",
-    "Temporary removed /dradartouch."
+    "Temporary removed /dradartouch.",
+    "Added kill list adjustable position"
   ],
   "game_status": true
 }
