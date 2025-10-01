@@ -7,7 +7,7 @@
     "Fixed weapon switch isn't showing when aiming.",
     "Fixed handling.",
     "Temporarily removed /dradartouch.",
-    "Added kill list adjustable position"
+    "Added adjustable kill list position."
   ],
   "game_status": true
 }
