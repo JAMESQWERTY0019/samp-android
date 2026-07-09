@@ -1,15 +1,7 @@
 {
     "servers": [
         {
-            "host": "play.uifserver.net",
-            "port": "7776"
-        },
-        {
             "host": "rpg.valrisegaming.com",
-            "port": "7777"
-        },
-        {
-            "host": "178.132.198.227",
             "port": "7777"
         }
     ]
